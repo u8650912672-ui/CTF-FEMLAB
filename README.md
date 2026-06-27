@@ -12,7 +12,7 @@ there are currently 4 ways to gain root click here if you wanna spoil it or for 
 <details>
 
 passwords and such
-<details>
+
   <summary>Spoiler warning</summary>
   more spoilers since here is passwords 
   the start account the one you will use for the testing is sir
