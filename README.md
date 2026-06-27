@@ -9,4 +9,20 @@ there are currently 4 ways to gain root click here if you wanna spoil it or for 
    second is kbdsrv
    3rd is kbdctl
    and 4th if you wanna make your own PoC exploit a module and sit here for a week /dev/heap_stress a custom coded kernel heap thingy i made 
-<details></details>
+<details>
+
+passwords and such
+<details>
+  <summary>Spoiler warning</summary>
+  more spoilers since here is passwords 
+  the start account the one you will use for the testing is sir
+  sir has password
+  well
+  sir :D
+  we have a hidden account i wont say find it yourself
+  and ofc
+  root
+  well
+  root
+  :D
+<details> 
