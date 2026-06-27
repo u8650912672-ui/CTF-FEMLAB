@@ -2,6 +2,7 @@
 its a cool lil ctf i made in like a few evnings started as something else still has remains
 sha-256 f2f3b937094c38141921aa6a62e8d43d799091e91736cae9b267539779c29b49
 there are currently 4 ways to gain root click here if you wanna spoil it or for some hints :3 
+this is more to show hey this is stuff you can do do it if you want its just a CTF as said i like making random projects next migth be inspierd by conway's game of life :3 who knows
 
 passwords and such
 
