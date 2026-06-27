@@ -18,11 +18,7 @@ passwords and such
   well
   root
   :D
-<details> 
-
-
-
- <details>
+   <details>
   <summary>Spoiler warning</summary>
   
    first way is unshare very easy
