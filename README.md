@@ -6,7 +6,7 @@ this is more to show hey this is stuff you can do do it if you want its just a C
 
 passwords and such
 
-  <summary>Spoiler warning</summary>
+  <summary> #IMPORTANT </summary>
   more spoilers since here is passwords 
   the start account the one you will use for the testing is sir
   sir has password
