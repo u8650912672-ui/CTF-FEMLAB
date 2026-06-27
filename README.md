@@ -5,8 +5,7 @@ there are currently 4 ways to gain root click here if you wanna spoil it or for 
 this is more to show hey this is stuff you can do do it if you want its just a CTF as said i like making random projects next migth be inspierd by conway's game of life :3 who knows
 
 passwords and such
-#IMPORTANT
-  <details> #IMPORTANT </details>
+# IMPORTANT PASSWORDS 
   more spoilers since here is passwords 
   the start account the one you will use for the testing is sir
   sir has password
